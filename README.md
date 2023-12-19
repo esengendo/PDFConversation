@@ -42,3 +42,7 @@ I encourage contributions to enhance the application. Please feel free to fork t
 
 
 ---
+References:
+- https://python.langchain.com/docs/get_started/introduction
+- https://huggingface.co/hkunlp/instructor-xl
+- https://platform.openai.com/docs/models
