@@ -1,4 +1,4 @@
-# PDF Conversational Interface Application
+# Multi-PDF Document Query & Response Conversational Interface LLM Application
 
 ## Overview
 The PDF Conversational Interface Application is a tool that combines the capabilities of LangChain, OpenAI, and Streamlit. This application allows users to upload multiple PDF documents and interact with them through a conversational interface. It processes the text within these documents, enabling users to ask questions and receive information based on the document contents.
